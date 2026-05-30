@@ -1,0 +1,2 @@
+introduction 
+Terraform is an open-source infrastructure as code tool used to define, provision, and manage infrastructure across cloud providers and services. In DevOps, it automates environment setup, ensures consistent infrastructure deployments, enables version control for infrastructure, and integrates with CI/CD pipelines to streamline development and operations workflows.
